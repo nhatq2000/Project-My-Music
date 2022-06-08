@@ -1,0 +1,62 @@
+.onemusic{
+  width: 100%;
+ margin: 0 auto;
+ background: white;
+ padding-bottom: 15px;
+	
+}
+.clear{
+	clear: both;
+}
+.onemusic1{
+  width: 45%;
+  float: left;
+  padding: 0 20px;
+  margin-left: 55px;
+
+  
+}
+.listnhac {
+	width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.listnhac li{
+	margin: 15px 0;
+	width: 100%;
+	cursor: pointer;
+}
+.listnhac li a{
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	
+	
+}
+.chu a:hover{
+	color: #6e55b4;
+}
+.chu a p.artist{
+	
+	font-size: 20px;
+}
+.chu p:hover{
+	color: #6e55b4;
+}
+.listnhac li:hover{
+	background: #efefef;
+}
+.anh img{
+	width: 100%;
+	border-radius: 3px;
+}
+.anh{
+	width: 17%;
+	float: left;
+	margin-right: 10px;
+}
+.chu{
+	padding-top: 10px;
+	float: left;
+	}

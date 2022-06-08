@@ -1,0 +1,98 @@
+.contentt{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.leftbaihat{
+	width: 70%;
+	float: left;
+	padding-bottom: 30px;
+}
+.rightbaihat{
+	width: 29%;
+	float: left;
+	padding-left: 5px;
+}
+.clear{
+	clear: both;
+}
+.countrytheme{
+	width: 100%;
+	border-top: 1px dotted gray;
+}
+.countrytheme1{
+	width: 20%;
+	float: left;
+}
+.countrytheme1 h5{
+	padding: 7px;
+	
+}
+.countrytheme1  a{
+	color: black;
+	text-decoration: none;
+}
+.countrytheme1 p {
+	padding: 7px;
+	margin:0;
+}
+.countrytheme1  a:hover{
+	color: #3059CF;
+}
+.songtheme{
+	width: 100%;
+	padding-top: 30px;
+}
+.songtheme1{
+	width: 100%;
+	padding-top: 10px;
+}
+.songthemeimage{
+	width: 10%;
+	float: left;
+}
+.songthemeimage a img{
+	width: 100%;
+	border-radius: 5px;
+}
+.songthemetittle{
+	width: 40%;
+	float: left;
+	padding-left: 15px;
+		padding-top: 5px;
+}
+.songthemetittle a{
+	text-decoration: none;
+	color: black;
+	line-height: 30px;
+
+}
+.songthemetittle p,h6{
+	margin: 0;
+}
+.songthemetittle a:hover{
+	color: #3059CF;
+}
+.officalthemme{
+	width: 30%;
+	float: left;
+	text-align: center;
+	padding-top: 16px;
+}
+.officalthemme p{
+	margin: 0 auto;
+	width: 35%;
+	border-radius: 5px;
+	background: gray;
+	color: white;
+}
+.iconthemme{
+	width: 20%;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+}
+.iconthemme i{
+	padding: 0 3px;
+	color: gray;
+}

@@ -1,0 +1,203 @@
+.contacts{
+	width: 85%;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+.leftt{
+	width: 70%;
+	float: left;
+
+}
+.toppic{
+	width: 100%;
+	padding-bottom:10px; 
+
+}
+.toppic  a{
+	text-decoration: none;
+	color: black;
+}
+.toppic h6 {
+	font-size: 20px;
+}
+.music{
+	width: 100%;
+	border-radius: 5px;
+	background-size: cover;
+	background: rgba(0,0,0,0.9);
+
+}
+.audioo{
+	width: 100%;
+}
+.musicleft{
+	width: 35%;
+	float: left;
+	
+}
+.musicright{
+	width: 65%;
+	float: left;
+}
+.musicleft img{
+	width: 100%;
+	padding: 10px;
+}
+.rightcenter{
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+.musictittle{
+	width: 100%;
+	
+	text-align: center;
+	color: white;
+	padding: 15px 0;
+}
+.musicaudio{
+	width: 100%;
+	padding-top: 50px;
+	text-align: center;
+	
+}
+.musicaudio audio{
+	width: 97%;
+}
+.musicicon{
+	width: 100%;
+	
+	padding: 7px 0;
+	margin-bottom: 20px;
+}
+.fa-heart{
+	color: red;
+}
+.fa-plus-circle{
+	color: green;
+}
+.fa-download{
+	color: gray;
+}
+.fa-share-square{
+	color: blue;
+}
+.musicicon i span a{
+	text-decoration: none;
+	color: black;
+	text-align: bold;
+}
+.musicicon i span a:hover{
+	color: #3bb082;
+}
+.musicicon i{
+	font-size: 20px;
+	padding: 0 15px;
+}
+.musiclyric{
+	width: 100%;
+	
+	padding-left: 15px;
+}
+#more {display: none;}
+#xt{
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.clear{
+	clear: both;
+}
+.musicnext{
+	width: 27%;
+	float: left;
+	padding-left: 10px;
+	margin-top: 82px;
+}
+.nextimage{
+	width: 100%;
+}
+.nextimage img{
+	width: 100%;
+	border-radius: 5px;
+}
+.turno{
+	width: 100%;
+	padding: 15px 0;
+}
+.turnotittle{
+	width: 50%;
+	float: left;
+}
+.turnotittle h3{
+	margin: 0;
+}
+.turnof{
+	width: 50%;
+	float: left;
+}
+ .toggle { border-radius: 20rem; }
+.songnext{
+	width: 100%;
+
+}
+.songnextimage{
+	width: 30%;
+	float: left;
+}
+.songnextimage a img{
+	width: 100%;
+	border-radius: 10px;
+}
+.songnexttittle{
+	width: 70%;
+	float: left;
+	padding: 15px 0 15px 10px; 
+}
+.songnexttittle a {
+	text-decoration: none;
+	color: black;
+}
+.songnexttittle a:hover{
+	color: #007bff;
+}
+.album{
+	width: 100%;
+	padding-top: 20px;
+}
+.album1{
+	width: 23%;
+	float: left;
+	padding: 10px 6px;
+}
+.album1image{
+	width: 100%;
+}
+.album1image a img{
+	width: 100%;
+	border-radius: 5px;
+}
+
+.album1tittle{
+	width: 100%;
+	text-align: center;
+}
+.musiccomment{
+	width: 100%;
+}
+.selectcomment{
+	width: 100%;
+	padding-bottom: 10px;
+}
+.selectimage{
+	width: 15%;
+	float: left;
+}
+.selectimage img{
+	width: 100%;
+}
+.selectcontent{
+	width: 85%;
+	float: left;
+}

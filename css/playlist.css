@@ -1,0 +1,136 @@
+.contentt{
+	width: 85%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.playlistleft{
+	width: 70%;
+	float: left;
+}
+.nameplaylist{
+	width: 100%;
+	padding-bottom: 20px;
+}
+.playlistAudio{
+	width: 100%;
+	background: rgba(0,0,0,0.9);
+	border-radius: 7px;
+}
+.Audioimage{
+	width: 30%;
+	float: left;
+	padding: 10px;
+}
+.Audioimage img{
+	width: 95%;
+}
+.Audiosong{
+	width: 70%;
+	float: left;
+	text-align: center;
+}
+.Audiosongimage{
+	width: 100%;
+	padding-top: 2px;
+}
+.Audiosongimage img{
+	width: 15%;
+	border-radius: 50%;
+	
+}
+.Audiosongtittle{
+	width: 100%;
+	padding-bottom: 20px;
+	color: white;
+}
+.songplaylist{
+	width: 100%;
+
+}
+#audioPlayer{
+	width: 97%;
+}
+.clear{
+	clear: both;
+}
+.allsong{
+	width: 100%;
+}
+#playlist{
+	width: 100%;
+	border: 0.5px solid gray;
+	border-top: none;
+	border-radius: 5px;
+	overflow: auto;
+	height: 250px;
+	padding-left: 30px;
+}
+#playlist li{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-bottom: 1px dotted gray;
+}
+#playlist li a {
+      color: black;
+      text-decoration: none;
+      
+}
+#playlist li a:hover{
+	color: blue;
+}
+#playlist li a h6{
+	
+	margin: 0;
+}
+#playlist li a h6 span{
+	font-size: 13px;
+	color: gray;
+}
+#playlist li.current-song a{
+      color: blue;
+}
+.fas,.far{
+	float: right;
+	padding-right: 6px;
+}
+.playlistright{
+	width: 29%;
+	float: left;
+	padding-left: 5px;
+	margin-top: 56px;
+}
+.rightimage{
+	width: 100%;
+	padding-bottom: 30px;
+}
+.rightimage img{
+	width: 100%;
+}
+.playlistlienquan{
+	width: 100%;
+	margin-top: 30px;
+}
+.quantittle{
+	width: 100%;
+	padding-bottom: 10px;
+}
+.lienquan{
+	width: 100%;
+	padding-bottom: 30px;
+}
+.lienquan1{
+	width: 19%;
+	padding: 0 5px;
+	float: left;
+}
+.lienquanimage{
+	width: 100%;
+}
+.lienquanimage a img{
+	width: 100%;
+}
+.lienquantittle{
+	width: 100%;
+	text-align: center;
+}
